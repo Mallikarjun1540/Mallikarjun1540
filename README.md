@@ -2,15 +2,15 @@
 
 I am Mallikarjun, a passionate Frontend Developer who enjoys building responsive, and user-friendly interfaces.
 
-I work mainly with React.js, JavaScript, HTML, and CSS, and also have experience with Python, Bootstrap, Tailwind CSS, MySQL, SQLite3, MongoDB, and REST APIs.
+I work mainly with ReactJs, JavaScript, HTML, and CSS, and also have experience with Python, Bootstrap, Tailwind CSS, MySQL, SQLite3, MongoDB, and REST APIs.
 
 Always curious and excited to learn new things, improve my skills, and bring ideas to life through code.
 
 When I’m not coding, you will probably find me watching or playing cricket — it is one of my favorite ways to unwind! 🏏
 
-📫 How to reach me: arjunkundagol99@gmail.com 
+📫 How to reach me: arjunkundagol99@gmail.com
 
-You can also connect with me on LinkedIn 💼 malikarjun-kundagol99 — I would love to connect and grow together!
+You can also connect with me on LinkedIn 💼 [malikarjun-kundagol99](https://www.linkedin.com/in/mallikarjun-kundagol99/) — I would love to connect and grow together!
 
 Thanks for stopping by! 😊
 <!--
